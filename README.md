@@ -40,16 +40,6 @@
 <img src="https://img.shields.io/github/issues-pr/08Gunjan/GUESS-MY-NUMBER?style=flat-square" alt="Guess My Number"/>
 </a>
 </p>
-    <p align="center">      
-   <img src="./videos/guess the number.gif" alt="Demo of Guess The Number">
-   <br>
- </p> 
- <p align="center">
-    <a href="https://08gunjan.github.io/GUESS-MY-NUMBER/Guess%20the%20Number/game.html" target="blank">View Demo</a>
-    ·
-    <a href="https://github.com/08Gunjan/GUESS-MY-NUMBER/issues/new/choose">Report Bug</a>
-    ·
-    <a href="https://github.com/08Gunjan/GUESS-MY-NUMBER/issues/new/choose">Request Feature</a>
-</p>
+  
   
                                                                          
