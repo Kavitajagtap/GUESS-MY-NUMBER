@@ -40,6 +40,10 @@
 <img src="https://img.shields.io/github/issues-pr/08Gunjan/GUESS-MY-NUMBER?style=flat-square" alt="Guess My Number"/>
 </a>
 </p>
+  <p align="center">      
+   <img src="./videos/guess the number.gif" alt="Demo of Guess The Number">
+   <br>
+ </p> 
   
   
                                                                          
