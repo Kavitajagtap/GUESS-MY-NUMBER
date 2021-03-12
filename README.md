@@ -41,7 +41,7 @@
 </a>
 </p>
   <p align="center">      
-   <img src="./videos/guess the number.gif" alt="Demo of Guess The Number">
+   <img src="./videos/new.gif" alt="Demo of Guess The Number">
    <br>
  </p> 
   
