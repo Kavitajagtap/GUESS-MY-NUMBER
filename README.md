@@ -1,3 +1,4 @@
+![new](https://user-images.githubusercontent.com/65773208/110965031-d43d4a00-8379-11eb-8732-3be8738d6999.gif)
 <h1 align="center"> <strong> GUESS-MY-NUMBER </strong> </h1> 
   <p align="center">
  𝚃𝚑𝚒𝚜 𝚒𝚜 𝚊 𝚍𝚎𝚖𝚘 𝚐𝚊𝚖𝚎 𝚒𝚖𝚙𝚕𝚎𝚖𝚎𝚗𝚝𝚎𝚍 𝚞𝚜𝚒𝚗𝚐 𝙷𝚃𝙼𝙻 , 𝙲𝚂𝚂 , 𝙹𝙰𝚅𝙰𝚂𝙲𝚁𝙸𝙿𝚃  ( 𝐁𝐄𝐆𝐈𝐍𝐍𝐄𝐑 𝐅𝐑𝐈𝐄𝐍𝐃𝐋𝐘 𝐏𝐑𝐎𝐉𝐄𝐂𝐓)
@@ -26,24 +27,6 @@
                                                                      
                                          =>  𝑒𝓃𝓉𝑒𝓇 𝒶 𝓈𝓂𝒶𝓁𝓁𝑒𝓇 𝓃𝓊𝓂𝒷𝑒𝓇 𝓉𝒽𝒶𝓃 𝓉𝒽𝑒 𝓁𝒶𝓈𝓉 𝑜𝓃𝑒
                                               (𝘋𝘰𝘯'𝘵 𝘧𝘰𝘳𝘨𝘦𝘵 𝘵𝘩𝘦 𝘳𝘢𝘯𝘨𝘦 𝘰𝘧 𝘯𝘶𝘮𝘣𝘦𝘳𝘴 𝘪𝘴 1 𝘵𝘰 20) 
-  <p align="center">                   
-  <a href="https://github.com/08Gunjan/GUESS-MY-NUMBER/fork" target="blank">            
-  <img src="https://img.shields.io/github/forks/08Gunjan/GUESS-MY-NUMBER?style=flat-square" alt="Guess My Number"/>
-</a>&nbsp;
-<a href="https://github.com/08Gunjan/GUESS-MY-NUMBER/stargazers" target="blank">
-<img src="https://img.shields.io/github/stars/08Gunjan/GUESS-MY-NUMBER?style=flat-square" alt="Guess My Number"/>
-</a>&nbsp;
-<a href="https://github.com/08Gunjan/GUESS-MY-NUMBER/issues" target="blank">
-<img src="https://img.shields.io/github/issues/08Gunjan/GUESS-MY-NUMBER?style=flat-square" alt="Guess My Number"/>
-</a>&nbsp;
-<a href="https://github.com/08Gunjan/GUESS-MY-NUMBER/pulls" target="blank">
-<img src="https://img.shields.io/github/issues-pr/08Gunjan/GUESS-MY-NUMBER?style=flat-square" alt="Guess My Number"/>
-</a>
-</p>
-  <p align="center">      
-   <img src="./videos/new.gif" alt="Demo of Guess The Number">
-   <br>
- </p> 
   
   
                                                                          
