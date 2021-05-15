@@ -61,6 +61,7 @@ document.querySelector('.check').addEventListener('click', function() {
   }
 });
 
+
 //LOGIC 3 - CHECK FOR SCORE HIGHSCORE
 // i want my score to decrease if my number is wrong
 //
